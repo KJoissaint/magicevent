@@ -38,3 +38,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 
 # 🚀 Features
+ # Feature 1 : Availability Calendar
+Create an interactive calendar that highlights the service provider's real-time availability.
+
+ Goals:
+Display available time slots for each day.
+
+Allow users to view upcoming availability.
+
+Optionally filter by service type or appointment category.
+
+Future scope: allow users to add an event or book a time slot.
+
+# Feature 2
